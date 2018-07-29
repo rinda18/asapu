@@ -1,5 +1,5 @@
 from Dit.linepy import *
-from akad.ttypes import *
+from akads.ttypes import *
 import time, asyncio, json, threading, codecs, sys, os, re, urllib, requests,subprocess,traceback,random
 class LineBot(object):
 
