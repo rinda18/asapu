@@ -1,0 +1,89 @@
+{
+    "akses": "u33d60593ad472ed11e7907fb1daee6ae",
+    "info": {
+        "u5812e04ea0a549d57fbb42c9a71e0b8b": "ipul",
+        "u8cae982abc647f463d9d1baae6138d57": "dits",
+        "u911a53f18a83a7efed7f96474a0d1c75": "sadits",
+        "ua5d0430099aca0f80a508c10abfa4ae6": "mekaku",
+        "ub0a437d8c41b2949e1de3f884ac32e02": "dhil",
+        "ud04081db2331758280d57e0169ae0700": "fend",
+        "udf1cc52d2369364e4a32086c0976c9b4": "shiina",
+        "uf021e2fc9470a98523f3420e18e1578f": "dimaz",
+        "uf19dd766cccf032eae3e60732e6e3e4e": "ali",
+        "uf988b592090122fd0000bd5518fde999": "pal"
+    },
+    "limit": {
+        "ua5d0430099aca0f80a508c10abfa4ae6": "mekaku",
+        "ue11fc7860247c63bd3da149613a793f6": "fajri",
+        "uedcb4744c255b5cf5eb4a43f700a6c32": "her"
+    },
+    "name": {
+        "ali": {
+            "mid": "uf19dd766cccf032eae3e60732e6e3e4e",
+            "pay": 1526790097.878015,
+            "runtime": 1523890943.657506,
+            "token": "Eswf5AQleW83TACDKvse.8z3xzSZpaY6UpMbZlM4/tG.G0eAOEBzh6iizDw8r2CmJqpPT1eIqhI8nmEXb6Jx00g="
+        },
+        "dhil": {
+            "mid": "ub0a437d8c41b2949e1de3f884ac32e02",
+            "pay": 1526890487.7326233,
+            "tempat": "",
+            "token": "EsWOQdyCiXztdCFvoZC2.Skq32mqBkuNH3J/isSmUaG.K8FWUpk+o9i3khmntOslxhB8sV4aGGwbTagetWWWrAw= "
+        },
+        "dimaz": {
+            "mid": "uf021e2fc9470a98523f3420e18e1578f",
+            "pay": 1526486281.738087,
+            "runtime": 1523894281.738087,
+            "token": "EsskTmKYEx2tGFQdzArf.8chI+jrWQyuJ80iogofxJW.CyQS3c+qwOlEKYCPJXl+AVYsyIepVtLn8bNZsHiBbHA="
+        },
+        "dits": {
+            "mid": "u8cae982abc647f463d9d1baae6138d57",
+            "pay": 1534258943.657506,
+            "runtime": 1523890943.657506,
+            "tempat": "",
+            "token": "Es0RIacSlo6nUbbd2f57.Jk6ykRXKF0y9NrUQ5HonvW.QMUefL5M6yrF918fU14R82zrAIJ+MLNaeYPnyQ+doNY= "
+        },
+        "fend": {
+            "mid": "ud04081db2331758280d57e0169ae0700",
+            "pay": 1526486281.738087,
+            "runtime": 1523894281.738087,
+            "token": "EstFTOee8lhdQk9talP0.0ecb2YmXDyka1x4bAA4haa.f/HI08B/QZBCnll4465qvziFly4O+pyLcQji+ZIOXfI="
+        },
+        "ipul": {
+            "mid": "u5812e04ea0a549d57fbb42c9a71e0b8b",
+            "pay": 1528465243.0737796,
+            "runtime": 1525873243.0737796,
+            "token": "EsYNTlDcib1Lu56TaXkb.wblGtQcLsDv+U0ljPX4lIW.DwWqogjawE68JoTJXxuu0lB7E7ex5WBvDi7ejvwA/Tw= "
+        },
+        "mekaku": {
+            "mid": "ua5d0430099aca0f80a508c10abfa4ae6",
+            "pay": 1528547476.9659927,
+            "runtime": 1525955476.9659927,
+            "tempat": "",
+            "token": "EsRvjkKd1hzdVDKv5WM6.PDbdajMSOpGkuiWqQ+Pk5G.uePQVk5C+1uyxFl/UkKjKZsOR9NwJPMQTZIczgFB364= "
+        },
+        "pal": {
+            "mid": "uf988b592090122fd0000bd5518fde999",
+            "pay": 1528556919.551706,
+            "runtime": 1525964919.551706,
+            "tempat": "",
+            "token": "Es4dEXTZ5hiWtjCdAEg9./yI1KGKbiV0aal1vgp3PMq.bnfTkjkCpXzdjfd7Crn1uQeJQBPDxWqz6fs6TWd7IEc= "
+        },
+        "sadits": {
+            "mid": "u911a53f18a83a7efed7f96474a0d1c75",
+            "pay": 1534258943.657506,
+            "runtime": 1523890943.657506,
+            "tempat": "",
+            "token": "EslvWkHwsXwwa0YkQaZ5.KrPt8yQdP/+TF5zhsG0CDq.x5ERlyU/KnkQcJ8RCH5QwiSbDdMsveOUbF9e9IsjXUw= "
+        },
+        "shiina": {
+            "mid": "udf1cc52d2369364e4a32086c0976c9b4",
+            "pay": 1526486281.738087,
+            "runtime": 1523894281.738087,
+            "tempat": "",
+            "token": "Es4FLgl8X3IZXPyInWm4.3XZflsnPnK5kmGHScxBjTa.jmPwW3gRisEhSOR1XVRsOP/IfrDeYGw4FwJpkl/ZOdM= "
+        }
+    },
+    "u1": "u73cc6c61a448fbf934ae6b8f2776aeec",
+    "u2": "ue42f41a3ebf413588c2b0c12a483af9e"
+}
